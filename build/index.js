@@ -84,7 +84,7 @@ function Edit({
     })
   }))), (0,react__WEBPACK_IMPORTED_MODULE_0__.createElement)("p", {
     ...(0,_wordpress_block_editor__WEBPACK_IMPORTED_MODULE_2__.useBlockProps)()
-  }, "\xA9 ", displayDate));
+  }, " \xA9 ", displayDate));
 }
 
 /***/ }),

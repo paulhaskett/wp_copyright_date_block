@@ -13,5 +13,5 @@ if ( ! empty( $attributes['startingYear'] ) && ! empty( $attributes['showStartin
 $site_title = bloginfo('name');
 ?>
 <p <?php echo get_block_wrapper_attributes(); ?>>
- <?php echo esc_html(get_bloginfo('')); ?> © <?php echo esc_html( $display_date );  ?>
+  © <?php echo esc_html( $display_date );  ?>
 </p>
